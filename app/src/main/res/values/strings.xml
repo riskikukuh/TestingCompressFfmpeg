@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestingCompressFfmpeg</string>
+    <string-array name="video_codec">
+        <item>x264</item>
+        <item>openh264</item>
+        <item>x265</item>
+        <item>xvid</item>
+        <item>vp8</item>
+        <item>vp9</item>
+        <item>aom</item>
+        <item>kvazaar</item>
+        <item>theora</item>
+    </string-array>
+</resources>
